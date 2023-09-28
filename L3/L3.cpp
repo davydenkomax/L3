@@ -54,9 +54,9 @@ int main(){
 
     // Задание 3
 
-    float a = 3.9;
-    int b = 3;
-    float x;
+    const double a = 3.9;
+    const int b = 3;
+    double x;
 
     cout << "Введите значение x: ";
     cin >> x;
